@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JetpackComposeBMW</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="color">Color</string>
+    <string name="type">Type</string>
+    <string name="search">Search BMW</string>
+    <string name="no_data">No Favorite BMW Found</string>
+    <string name="my_name">Muhammad Naufal Labib Ramadhan</string>
+    <string name="my_email">a179bsy2858@bangkit.academy</string>
+</resources>
